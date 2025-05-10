@@ -57,7 +57,7 @@ The implementation of this feature was pretty straightforward:
 
 The general workflow for the sleepness and absence detection looks like this:  
 
-<img src="https://user-images.githubusercontent.com/100664869/194755008-74282aa3-01a1-4ea3-8563-a1777278e752.png">  
+
 
 ## Project Structure
 ```bash
